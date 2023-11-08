@@ -1,0 +1,12 @@
+l = []
+l.append(10)
+l.append('sai')
+l.append("Saikrishna")
+l.append(10.6)
+l.append(True)
+l.append('A')
+l.append("a+bj")
+l.append(None)
+l.append((1,2,3))
+print("List values :",l)
+print(l[len(l)-1])
