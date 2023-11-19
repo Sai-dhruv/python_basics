@@ -18,3 +18,5 @@ print("List values after removeing 20 : ",l)
 print(l[-1]) # Negative index access
 print(" '*' Operator applicable for list :", l*2) # two times printed
 print("Memory Size of the List :", sys.getsizeof(l))
+
+
